@@ -1,0 +1,8 @@
+requests
+pandas
+plotly
+streamlit
+vaderSentiment
+scikit-learn
+numpy
+yfinance
