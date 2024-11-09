@@ -6,3 +6,9 @@ vaderSentiment
 scikit-learn
 numpy
 yfinance
+tkinter
+sqlite3
+subprocess
+sys
+os
+Image
