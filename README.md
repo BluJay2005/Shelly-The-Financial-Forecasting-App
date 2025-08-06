@@ -21,10 +21,13 @@ Shelly is a Streamlit-based financial analysis tool that uses AI and NLP to eval
 - scikit-learn
 - Plotly
 
-## 📦 Installation
+## 📦 Installation and Execution 
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 streamlit run app.py
+```
+## Link to Run!!
+https://shellytheturtle.streamlit.app/
